@@ -1,4 +1,4 @@
 # first-demo
 This is my first Git Repository
 <br>
-Author - Shamaiza Batool & Sonia
+Author - Shamaiza Gujjara di & Sonia jatta di
